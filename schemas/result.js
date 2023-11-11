@@ -5,7 +5,7 @@ export default {
     title: 'Result',
     fields: [
       {
-        name: 'case-type',
+        name: 'case_type',
         type: 'string',
         title: 'Case Type'
       },

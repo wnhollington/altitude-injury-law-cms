@@ -21,7 +21,7 @@ export default {
       },
       {
         title: 'Featured Image',
-        name: 'featured-image',
+        name: 'featured_image',
         type: 'image',
         options: {
           hotspot: true // <-- Defaults to false

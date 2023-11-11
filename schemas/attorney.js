@@ -16,7 +16,7 @@ export default {
       },
       {
         title: 'Bio Image',
-        name: 'bio-image',
+        name: 'bio_image',
         type: 'image',
         options: {
           hotspot: true // <-- Defaults to false
@@ -54,7 +54,7 @@ export default {
       },
       {
         title: 'Bar Admissions',
-        name: 'bar-admissions',
+        name: 'bar_admissions',
         type: 'array',
         of: [{type: 'string'}]
       },
